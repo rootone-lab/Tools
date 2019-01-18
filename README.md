@@ -95,7 +95,7 @@ An array of design resources such as: Mock-ups, UI Kits, Icons, Backgrounds, etc
 Beautiful, free photos.
 Gifted by the world’s most generous community of photographers. 
 
-#### Pixabay- pixabay.com
+#### Pixabay-  http://pixabay.com
 Pixabay.com is an international website for sharing photos, illustrations, vector graphics, and film footage under a proprietary license
 
 #### Stock Photos That Don't Suck-https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b
