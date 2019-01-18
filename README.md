@@ -22,7 +22,7 @@ https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-
 https://blog.aritraroy.in/50-ultimate-resources-to-master-android-development-15165d6bc376
 
 
-##UI
+## UI
 
 #### For Material Color schemes, UI, icons nad unicode charachter
 https://www.materialui.co
