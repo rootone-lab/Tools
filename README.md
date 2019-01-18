@@ -12,17 +12,20 @@ Android developer portal with tools, libraries, and apps
 
 ## Webpages:
 
-#### Android developer portal with tools, libraries, and apps
-https://android-arsenal.com
-
 #### 50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer
 https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2
 
 #### 50+ Ultimate Resources to Master Android Development
 https://blog.aritraroy.in/50-ultimate-resources-to-master-android-development-15165d6bc376
 
+#### 25 Android libraries you definitely want to try out in early 2017
+https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0
+
 
 ## UI
+
+### Material design palette
+https://www.materialpalette.com
 
 #### For Material Color schemes, UI, icons nad unicode charachter
 https://www.materialui.co
@@ -64,6 +67,9 @@ Can't figure out how to lay out your navigation or show thumbnails? Pattern Tap 
 
 ## Design and Insipiration
 
+#### UpLabs- https://www.uplabs.com
+Uplabs is the leading community of creatives, offering the best digital inspiration and downloads, every day.
+
 #### Pttrns- http://pttrns.com/
 Same as Pattern Tap but for mobile design patterns. (iOS and Android)
 
@@ -72,6 +78,9 @@ One of the best Mobile UX websites. Can't figure out a certain User Flow for you
 
 #### 100 Days of Fonts- http://100daysoffonts.com/
 A great place to find beautiful combinations and usages of Google Fonts and color schemes.
+
+#### Font Awesome- https://fontawesome.com/icons?from=io
+Font Awesome's Free CDN is the quickest and easiest way to get Font Awesome on your website.
 
 #### User Inter Faces- http://uifaces.com/
 A database of profile pictures for mockups and demoes (many can be used on live websites as well)!
