@@ -43,6 +43,8 @@ Great icon sets for just about anything.
 #### Icon Moon- https://icomoon.io/
 High-quality and varied icon fonts and icon packs.
 
+#### Android Asset Studio- https://romannurik.github.io/AndroidAssetStudio/index.html
+A collection of tools to easily generate assets such as launcher icons for your Android app.
 
 ## Code
 
